@@ -13,5 +13,5 @@ This is a Spring Boot application for a social media platform that integrates wi
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/socialmedia-aws.git
+   git clone https://github.com/alexsavinov/socialmedia-aws.git
    cd socialmedia-aws
